@@ -1,0 +1,3 @@
+globals{
+    title = "My Website"
+}
